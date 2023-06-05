@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "laporan_pratikum08_final_pewarisan/1.0.0": {
+        "runtime": {
+          "laporan_pratikum08_final_pewarisan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "laporan_pratikum08_final_pewarisan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
